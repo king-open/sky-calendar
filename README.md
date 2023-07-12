@@ -1,4 +1,4 @@
-# 天空日历
+# Sky-calendar
 
 > [English](./README.md) | [中文](./Chinese.md)
 
