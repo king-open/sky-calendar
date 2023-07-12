@@ -7,6 +7,7 @@
 ## 安装
 
 ```
+npm install 
 npx parcel src/index.html 
 ```
 
