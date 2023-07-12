@@ -8,6 +8,7 @@ Suddenly, I want to write a calendar to play
 ### install
 
 ```
+npm install 
 npx parcel src/index.html 
 ```
 
